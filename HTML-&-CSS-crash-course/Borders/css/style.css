@@ -1,0 +1,16 @@
+body {
+  background: #333;
+  color: white;
+}
+
+header {
+  width: 100px;
+
+  border: 10px solid red;
+
+  border-bottom-color: yellow;
+  border-left-style: dashed;
+
+  padding: 20px;
+  margin: 20px;
+}

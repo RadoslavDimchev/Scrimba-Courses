@@ -1,0 +1,17 @@
+body {
+  background: #333;
+  color: white;
+}
+
+header {
+  color: #333;
+  background: white;
+  width: 100px;
+  margin: 20px;
+  padding: 30px;
+}
+
+main {
+  background-color: pink;
+  padding-left: 100px;
+}

@@ -1,0 +1,10 @@
+/* TODO: change the color of the text to white */
+
+body {
+  background: #333;
+  color: white;
+}
+
+/* change the color of title to red and it won't be white because it's more specific and override */
+
+h1 { color: red; }
