@@ -14,7 +14,7 @@ This tutorial course will teach you to design user interfaces that both look goo
 <br>
 <br>
 
-### An Awesome Image Grid
+### Color picker
 ![Color picker](https://i.imgur.com/fkrfcmy.png)
 
 ## I learned
