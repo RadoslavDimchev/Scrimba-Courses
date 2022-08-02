@@ -4,8 +4,8 @@ let hasBlackJack = false;
 let cards = [];
 let sum = 0;
 let player = {
-  name: "Per",
-  chips: 200
+  name: "Radoslav",
+  chips: 111
 };
 
 let messageEl = document.getElementById("message-el");
